@@ -78,4 +78,4 @@ Contributions, suggestions, and duas are welcome! 🙏
 Built with sincerity for the Muslim community. May Allah make it a source of benefit and barakah for all who use it.
 
 > *"The most beloved deeds to Allah are those done consistently, even if they are small."*
-> - Prophet Muhammad ﷺ (Bukhari & Muslim)
+> Prophet Muhammad ﷺ (Bukhari & Muslim)
