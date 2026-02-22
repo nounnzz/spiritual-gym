@@ -52,7 +52,7 @@ https://nounnzz.github.io/spiritual-gym/
 
 ## 🧠 How It Works
 
-1. Each of the 7 exercise cards displays a **Mon–Sun checkbox grid**
+1. Each of the 7 exercise cards displays a **Mon-Sun checkbox grid**
 2. Checking a day marks that exercise as completed for that day
 3. The **progress bar** at the top updates dynamically based on total checkboxes completed
 4. Your progress is saved in **localStorage** so it persists between sessions
