@@ -14,7 +14,7 @@ https://nounnzz.github.io/spiritual-gym/
 |---|----------|------|------|
 | 1 | **The 4 T's** *(Tasbiḥ, Taḥmīd, Takbīr, Tahlīl)* | After each Salah | 5x daily |
 | 2 | **Istighfar** | 1,000x a day | Anytime |
-| 3 | **Salawat** 🤲 | 100x a day | Anytime |
+| 3 | **Salawat** | 100x a day | Anytime |
 | 4 | **Dua** | Sujood of Salah | Each prayer |
 | 5 | **Quran** | 1 page a day | Daily |
 | 6 | **Tahajjud** | 2 units | Before Fajr |
