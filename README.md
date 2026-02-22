@@ -1,4 +1,4 @@
-# 🏋️ Spiritual Gym — 7 Exercises Tracker
+# 🏋️ Spiritual Gym: 7 Exercises Tracker
 
 > *Reps + Consistency = Stronger Relationship with Allah*
 
