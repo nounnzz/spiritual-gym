@@ -24,12 +24,12 @@ https://nounnzz.github.io/spiritual-gym/
 
 ## ✨ Features
 
-- 📅 **Weekly Tracker** — Check off each exercise for every day of the week (Mon–Sun)
-- 📊 **Progress Bar** — Visual weekly completion progress updated in real time
-- 💡 **Virtues Panel** — Each exercise card lists its spiritual benefits and virtues
-- 📤 **Share Your Progress** — Share your weekly workout results with others
-- 🔄 **Start New Week** — Reset and begin a fresh week of tracking
-- 📱 **Responsive Design** — Works seamlessly on desktop and mobile
+- 📅 **Weekly Tracker**: Check off each exercise for every day of the week (Mon–Sun)
+- 📊 **Progress Bar**: Visual weekly completion progress updated in real time
+- 💡 **Virtues Panel**: Each exercise card lists its spiritual benefits and virtues
+- 📤 **Share Your Progress**: Share your weekly workout results with others
+- 🔄 **Start New Week**: Reset and begin a fresh week of tracking
+- 📱 **Responsive Design**: Works seamlessly on desktop and mobile
 
 ---
 
