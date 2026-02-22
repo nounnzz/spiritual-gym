@@ -45,7 +45,8 @@ https://nounnzz.github.io/spiritual-gym/
 
 ## 📸 Preview
 
-![Spiritual Gym Tracker](./assets/preview.png)
+<img width="3406" height="2484" alt="image" src="https://github.com/user-attachments/assets/a96c8ad1-4379-4280-8fec-4682afa4c9c5" />
+
 
 ---
 
