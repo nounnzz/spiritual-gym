@@ -1,4 +1,4 @@
-# 🏋️ Spiritual Gym: 7 Exercises Tracker
+# Spiritual Gym: 7 Exercises Tracker
 
 > *Reps + Consistency = Stronger Relationship with Allah*
 
@@ -8,7 +8,7 @@ https://nounnzz.github.io/spiritual-gym/
 
 ---
 
-## 🕌 The 7 Spiritual Exercises
+## The 7 Spiritual Exercises
 
 | # | Exercise | Goal | When |
 |---|----------|------|------|
@@ -22,7 +22,7 @@ https://nounnzz.github.io/spiritual-gym/
 
 ---
 
-## ✨ Features
+## Features
 
 - 📅 **Weekly Tracker**: Check off each exercise for every day of the week (Mon–Sun)
 - 📊 **Progress Bar**: Visual weekly completion progress updated in real time
@@ -33,7 +33,7 @@ https://nounnzz.github.io/spiritual-gym/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -43,14 +43,14 @@ https://nounnzz.github.io/spiritual-gym/
 
 ---
 
-## 📸 Preview
+## Preview
 
 <img width="3406" height="2484" alt="image" src="https://github.com/user-attachments/assets/a96c8ad1-4379-4280-8fec-4682afa4c9c5" />
 
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. Each of the 7 exercise cards displays a **Mon-Sun checkbox grid**
 2. Checking a day marks that exercise as completed for that day
@@ -61,7 +61,7 @@ https://nounnzz.github.io/spiritual-gym/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, suggestions, and duas are welcome! 🙏
 
@@ -73,7 +73,7 @@ Contributions, suggestions, and duas are welcome! 🙏
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 Built with sincerity for the Muslim community. May Allah make it a source of benefit and barakah for all who use it.
 
